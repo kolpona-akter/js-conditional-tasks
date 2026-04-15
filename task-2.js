@@ -1,4 +1,4 @@
-let weight = 36;  //kg
+let weight = 39;  //kg
 let height = 1.524; //meter
 
  let BMI = weight / (height * height);
